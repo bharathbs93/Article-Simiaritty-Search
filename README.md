@@ -1,2 +1,7 @@
 # Article-Similarity-Search
-Linear Regression applied to various distance metrics to find the similarity between article pairs
+
+
+This is three stage project of finding the similarity scores between article pairs
+
+# Data Pre-Processing in R
+
