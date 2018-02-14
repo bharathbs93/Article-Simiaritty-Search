@@ -29,7 +29,7 @@ Jarcard=a*Cosine+b.
 
 Run
 ```
-Standard_deviation.py
+python Standard_deviation.py
 ```
 The change to the SD of the similarity matrix with respect to the number of features is given.
 
