@@ -27,6 +27,8 @@ Euclidean=a*Jarcard+b
 
 Jarcard=a*Cosine+b.
 
+where a is the slope of the line and b is the y-intercept
+
 #Standard Deviation Analysis
 
 Run
