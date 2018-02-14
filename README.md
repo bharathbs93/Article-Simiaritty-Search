@@ -1,7 +1,7 @@
 # Article-Similarity-Search
 
 
-This is four stage project of finding the similarity scores between article pairs from the 20newsgroup dataset
+This is a four stage project of finding the similarity scores between article pairs from the 20newsgroup dataset
 
 #Data Pre-Processing in R
 
