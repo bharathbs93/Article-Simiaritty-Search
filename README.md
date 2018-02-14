@@ -7,7 +7,7 @@ This is four stage project of finding the similarity scores between article pair
 
 The R notebook contains the data pre-processing part. Raw data of the 20newsgroup data is read, processed and stored as a term frequency matrix. In the tf matrix the rows are the document/article numbers and the colums are the terms that are present in each of these documents. Each entry in the tf matrix is the frequency of that term in the matrix.
 
-Once the tf matrix has been generated the top 100 words or the best features are selected and this result in present in top100.csv(each word has a column frequency against itself).
+Once the tf matrix has been generated the top 100 words or the best features are selected and this result in present in top100.csv(each word has a column frequency against itself). finmatrix.csv is the matrix of top 100 words against the terms frequency of all the documents.
 
 
 #Similarity Analysis
