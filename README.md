@@ -22,7 +22,9 @@ In this section the tf matrix now reduced to its top features, is operated upon 
 The three similarity matrices are then analysed on the basis of Linear Regression to fit the similarity pairs using the equation:
 
 Cosine=a*Euclidean+b
+
 Euclidean=a*Jarcard+b
+
 Jarcard=a*Cosine+b.
 
 #Standard Deviation Analysis
