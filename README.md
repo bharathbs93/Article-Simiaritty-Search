@@ -13,10 +13,9 @@ Once the tf matrix has been generated the top 100 words or the best features are
 #Similarity Analysis
 
 Run
-'''
+```
 python analysis.py
-
-'''
+```
 
 In this section the tf matrix now reduced to its top features, is operated upon to find the Cosine, Euclidean and Jaccardian similarity matrices respectively. It's heatmap analysis is also given.
 
@@ -29,16 +28,16 @@ Jarcard=a*Cosine+b.
 #Standard Deviation Analysis
 
 Run
-'''
+```
 Standard_deviation.py
-'''
+```
 The change to the SD of the similarity matrix with respect to the number of features is given.
 
 #Sorted similarity pairs
 Run
-'''
+```
 python ranking-cosine.py
 python ranking-euclidean.py
 python ranking-jaccardian.py
-'''
+```
 The top 3 similarity pair scores for the articles of each metric are given here.
